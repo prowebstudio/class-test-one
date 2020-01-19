@@ -1,0 +1,130 @@
+*{
+
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.container{
+	width: 900px;
+	margin: 0 auto;
+
+}
+
+.registration{
+		padding: 100px 0px;
+	background: url('../img/bg.jpg');
+	width: 100%;
+	float: left;
+}
+
+.reg-one{
+	margin-right: 84px;
+	width: 45%;
+	float: left;
+}
+
+.reg-one h1{
+	padding: 10px 0px;
+		color: white;
+}
+.reg-one p{
+	color: white;
+	padding: 0px 0px 10px 0px;
+}
+.reg-one i{
+
+	padding-bottom: 5px;
+	display: block;
+	color: white;
+}
+
+.color{
+	color: #5cc363;
+}
+
+
+
+.form{
+	width: 30%;
+	float: left;
+
+}
+
+.btn{
+	padding: 12px 20px;
+	margin: 10px 0px;
+	background:#2c8ed2;
+	border:none;
+	border-radius: 30px;
+	color: white;
+
+
+}
+
+.form{
+	width: 30%;
+	background:#2c8ed2 ;
+	padding: 30px 20px;
+	
+
+}
+
+.form-title{
+	color: white;
+
+}
+
+.form-title h1{
+	padding: 10px 0px;
+	text-align:center
+
+}
+.form-title p{
+	padding: 0px 0px 20px 0;
+	text-align:center;
+
+}
+.form-input{
+	width:100%;
+	float:left;
+
+}
+.input-field{
+	height: 15px;
+	padding: 10px 0px;
+	margin-bottom: 5px;
+width: 100%;
+float: left;
+border: none;
+	
+}
+::placeholder{
+	padding-left: 10px;
+	color: #a7a7a7;
+
+}
+
+	
+.now{
+	border: none;
+	padding: 8px 20px;
+	width: 100%;
+	background: #125a8c;
+	box-shadow: 1px 5px 1px #105c0c;
+	color: white;
+	margin-bottom: 20px;
+
+
+}
+
+.now:hover{
+	background: #fff;
+	color: black;
+
+
+}
+
+
+
+
